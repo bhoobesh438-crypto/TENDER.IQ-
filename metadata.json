@@ -1,0 +1,6 @@
+{
+  "name": "BIDVERIFY AI",
+  "description": "AI-powered tender compliance verification platform with 3D compliance analytics, officer-verified document workflows, and procurement audit tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
